@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sidd</title>
-    <link>http://examplesite.com/categories/</link>
+    <link>https://00siddhant00.github.io/webDev/categories/</link>
     <description>Recent content in Categories on Sidd</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://examplesite.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://00siddhant00.github.io/webDev/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
